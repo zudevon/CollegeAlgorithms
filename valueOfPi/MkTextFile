@@ -1,0 +1,11 @@
+
+Make a file to Write too in python. In this case we will write notes to a file
+to get all digits for pi
+//--------------------------------//
+f = open("output.txt", "w")       //
+                                  //
+for item in my_list:              //
+    f.write(str(item) + "\n")     //
+                                  //
+f.close()                         //
+//--------------------------------//
